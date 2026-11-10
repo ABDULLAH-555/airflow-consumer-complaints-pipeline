@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets & Credentials
+*.json
+google_key.json
+.env
+
+# Data & Logs
+logs/
+dags/raw_data/
+*.csv
